@@ -94,3 +94,7 @@ TW_USE_LEDS_HAPTICS := true
 # Notch
 TW_Y_OFFSET := 51
 TW_H_OFFSET := -51
+
+# OrangeFox specific build flags
+OF_DISABLE_MIUI_SPECIFIC_FEATURES := 1
+OF_MAINTAINER := blackrow67
